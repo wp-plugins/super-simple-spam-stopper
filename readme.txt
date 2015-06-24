@@ -19,17 +19,15 @@ Only regular comments from non-logged-in users are filtered. Pingbacks, trackbac
 
 == Installation ==
 
-After downloading the plugin’s zip file:
+After downloading the plugin's zip file:
 
-1. In WordPress’s *Plugins* menu, choose *Add New* then *Upload Plugin*
-1. Follow the prompts to:
-    * upload the plugin’s zip file 
-    * and then to active the plugin
-1. Configure the plugin through the *Settings* -> *Super Simple SPAM Stopper* menu in WordPress
+1. In WordPress's *Plugins* menu, choose *Add New* then *Upload Plugin*.
+1. Follow the prompts to upload the plugin's zip file and then to active the plugin.
+1. Configure the plugin through the *Settings* -> *Super Simple SPAM Stopper* menu in WordPress.
 
-If you’d rather upload the plugin manually:
+If you'd rather upload the plugin manually:
 
-1. Extract and upload the contents of the plugin’s zip file to the `/wp-content/plugins/` directory.
+1. Extract and upload the contents of the plugin's zip file to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the *Plugins* menu in WordPress.
 1. Configure the plugin through the *Settings* -> *Super Simple SPAM Stopper* menu in WordPress.
 
