@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: BSD_3Clause
 License URI: http://directory.fsf.org/wiki/License:BSD_3Clause
 
-Prevents automated SPAM by requiring visitors to answer a question of your choosing (plaintext or regex).
+Prevents automated SPAM by requiring visitors to answer a question of your choosing. The correct answer can be defined using plain text or a regular expression.
 
 == Description ==
 
